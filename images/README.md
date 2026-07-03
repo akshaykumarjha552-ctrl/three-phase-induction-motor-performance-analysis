@@ -1,0 +1,4 @@
+-Simulink Model image
+-Speed vs time graph
+-Torque vs time graph
+-Current Phasors
